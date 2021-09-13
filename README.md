@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
-It's an exemple of a University website with CRUD to manipulate the courses.
+It's an example of a University website with CRUD to manipulate the courses.
 
 ## Development server
 

@@ -6,6 +6,7 @@ It's an exemple of a University website with CRUD to manipulate the courses
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `uvicorn main:app --reload` to run the back-end .
 
 ## Code scaffolding
 

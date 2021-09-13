@@ -1,0 +1,40 @@
+.bi {
+    background-image: url(C:\Users\MM\OneDrive\Desktop\Front-End\FormaManegement\src\app\home\education.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    filter: blur(5px);
+}
+
+.title {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    font-family: calibri;
+    font-weight: bold;
+}
+
+.mt {
+    color: white;
+    position: absolute;
+    top: 44%;
+    right: 18%;
+    transform: translate(-50%, -50%);
+    font-size: 25;
+    font-family: calibri;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.container {
+    margin-top: -90px;
+}
+
+.card {
+    border-radius: 20px;
+    box-shadow: 0px 0px 35px 1px rgb(141 141 141 / 75%);
+}

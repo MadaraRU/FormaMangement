@@ -1,0 +1,34 @@
+.void {
+    height: 100px;
+}
+
+button.btn {
+    color: white;
+    background-color: #3D1242;
+    border-color: #3D1242;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+span#basic-addon1 {
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    background-color: #3D1242;
+    border-color: #3D1242;
+}
+
+span#basic-addon1 {
+    border-radius: unset;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+span#basic-addon1 {
+    height: 40px;
+}
+
+.ff {
+    background-color: #9a859d;
+    background-color: 20px;
+    margin-top: 20px;
+}

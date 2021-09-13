@@ -1,0 +1,46 @@
+.void {
+    height: 70px;
+}
+
+.maintitle {
+    height: 110px;
+    background-color: #8F8CE7;
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 75px;
+}
+
+.posttitle {
+    margin: 50px 80px 0px 80px;
+    display: flex;
+}
+
+.text {
+    margin: 60px 80px 80px 80px;
+}
+
+.card {
+    width: 600px;
+    margin-right: 50px;
+    height: 650px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 35px 1px rgb(141 141 141 / 75%);
+}
+
+.forma {
+    color: white;
+    text-align: center;
+    height: 70px;
+    background-color: #3D1242;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.inf {
+    padding-top: 15px;
+    font-size: 25px;
+    font-weight: 500;
+}

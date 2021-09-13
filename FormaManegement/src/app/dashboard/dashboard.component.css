@@ -1,0 +1,43 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+.void {
+    height: 70px;
+}
+
+.dhead {
+    display: flex;
+    margin: 50px 80px 50px 80px;
+}
+
+.table {
+    box-shadow: 0px 0px 35px 1px rgb(141 141 141 / 75%);
+    text-align: center;
+}
+
+th {
+    background-color: #3D1242;
+    color: white;
+}
+
+.modal-content {
+    width: 700px;
+    display: block;
+    margin: auto;
+}
+
+button#dropdownMenuButton1 {
+    color: grey;
+    background-color: #e7e7e7;
+    border-color: #e7e7e7;
+    height: 50px;
+    width: 195px;
+    text-align: left;
+}
+
+tr {
+    vertical-align: baseline;
+}
+
+select.form-select {
+    height: 60px;
+    background-color: #e7e7e7;
+}

@@ -1,0 +1,34 @@
+    .me-auto {
+        margin-left: auto !important;
+        margin-right: 10px !important;
+    }
+    
+    span#basic-addon1 {
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        background-color: transparent;
+    }
+    
+    input.form-control.me-2 {
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+    
+    form.d-flex {
+        width: 200px;
+    }
+    
+    ul.dropdown-menu.show {
+        margin-left: 50px;
+    }
+    
+    nav.navbar.navbar-expand-lg.navbar-light {
+        background-color: white;
+        box-shadow: 0 4px 4px 0 #2c2c2c;
+    }
+    
+    nav.navbar.navbar-expand-lg.navbar-light {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+    }
